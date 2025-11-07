@@ -9,7 +9,7 @@
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
-    <td>![](./image.jpeg)</td>
+    <td><img src="./image.jpeg"></td>
  </tr>
 </table>
 
