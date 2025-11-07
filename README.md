@@ -4,7 +4,7 @@
 
 <table border="0" width=100%>
  <tr>
-    <td>
+    <td width=60%>
 
 **ServeDMD** is a Python-based control framework for **closed-loop photolithography on a microscope**.  
 It combines real-time **Digital Mirror Device (DMD)** control with **deep learning–based image segmentation**, enabling adaptive pattern projection and precise light-driven microfabrication.
@@ -14,7 +14,7 @@ It combines real-time **Digital Mirror Device (DMD)** control with **deep learni
 
 In short — it’s the **Dungeon Master** for your light patterns.
     </td>
-    <td><img src="./image.jpeg" height=500px></td>
+    <td width=40%><img src="./image.jpeg" height=500px></td>
  </tr>
 </table>
 
