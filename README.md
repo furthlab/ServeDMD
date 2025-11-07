@@ -8,18 +8,18 @@
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td><img src="./image.jpeg" height=500px></td>
- </tr>
-</table>
-
-**ServeDMD** is a Python-based control framework for **closed-loop photolithography on a microscope**.  
+    <td>
+    **ServeDMD** is a Python-based control framework for **closed-loop photolithography on a microscope**.  
 It combines real-time **Digital Mirror Device (DMD)** control with **deep learning–based image segmentation**, enabling adaptive pattern projection and precise light-driven microfabrication.
 
 - 🖥️ **Server code** → runs on a **Raspberry Pi** connected to the **DMD hardware**.  `raspberrypi_server.py`
 - 💻 **Client code** → runs on a **control workstation** (handling microscope imaging, segmentation, and feedback). `microscope_client.py` 
 
 In short — it’s the **Dungeon Master** for your light patterns.
+    </td>
+    <td><img src="./image.jpeg" height=500px></td>
+ </tr>
+</table>
 
 ---
 
