@@ -1,6 +1,17 @@
 # 🧙‍♂️ ServeDMD: Serve the Dungeon Master’s Device
 
-![](./image.jpeg)
+
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>![](./image.jpeg)</td>
+ </tr>
+</table>
 
 **ServeDMD** is a Python-based control framework for **closed-loop photolithography on a microscope**.  
 It combines real-time **Digital Mirror Device (DMD)** control with **deep learning–based image segmentation**, enabling adaptive pattern projection and precise light-driven microfabrication.
