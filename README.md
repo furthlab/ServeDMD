@@ -9,7 +9,7 @@
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
-    <td><img src="./image.jpeg"></td>
+    <td><img src="./image.jpeg" height=200px></td>
  </tr>
 </table>
 
