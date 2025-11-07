@@ -2,14 +2,14 @@
 
 
 
-<table border="0">
+<table border="0" width=100%>
  <tr>
     <td><b style="font-size:30px">Title</b></td>
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
-    <td><img src="./image.jpeg" height=200px></td>
+    <td><img src="./image.jpeg" height=500px></td>
  </tr>
 </table>
 
